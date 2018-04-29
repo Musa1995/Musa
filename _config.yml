@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
+title: Pawle Musa
+description: Computer Engineer
+author: Pawle Musa
+logo: /Musa/static/img/Me.png
 github: https://github.com/codeasashu
-about: Freelance developer
+about: Student
 
 baseurl: ""
-url: ""
+url: "https://www.linkedin.com/in/pawlemusa"
 
 allowsearch: true
 
